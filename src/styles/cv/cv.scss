@@ -1,0 +1,36 @@
+ .el-descriptions {
+    margin-top: 20px;
+  }
+  .cell-item {
+    display: flex;
+    align-items: center;
+  }
+  .margin-bottom {
+    margin-bottom: 20px;
+  }
+  .margin-top {
+    margin-top: 20px;
+  }
+  .margin-left {
+    margin-left: 20px;
+  }
+  .margin-right {
+    margin-right: 20px;
+  }
+  .cv_box {
+      display: flex;
+      flex-direction: column;
+      flex-wrap: nowrap;
+      align-content: flex-start;
+      align-items: flex-start; 
+    margin-left: 20px;
+  }
+  .cv-title {
+   margin-bottom: 20px !important;
+  }
+  .ep-space--vertical{
+      align-items: flex-start !important;
+  }
+.cv_box .cv-title {
+    align-self:auto;
+}  
