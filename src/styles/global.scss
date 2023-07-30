@@ -1,0 +1,28 @@
+html,
+body,
+#app
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+#app {
+    text-align: center;
+    color: var(--ep-text-color-primary);
+   
+    
+  }
+  .base-view {
+    width: 100%;
+    height: 100%;
+  }
+  .base-router-view {
+    width: 100%;
+    height: auto;
+  }
+  .element-plus-logo {
+    width: 50%;
+  }
